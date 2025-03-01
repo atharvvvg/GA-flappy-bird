@@ -1,6 +1,6 @@
 # Flappy Bird AI using Genetic Algorithm
 
-![Flappy Bird AI Demo](media/flappy_genalg.mp4)
+![Flappy Bird AI Demo](media/flappy_genalg.gif)
 
 An artificial intelligence implementation that learns to play Flappy Bird using neuroevolution and genetic algorithms. The AI agents improve through generations by evolving their neural network brains.
 
