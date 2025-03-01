@@ -18,7 +18,7 @@ An artificial intelligence implementation that learns to play Flappy Bird using 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/flappy-bird-ai.git
+   git clone https://github.com/atharvvvg/GA-flappy-bird.git
    cd flappy-bird-ai
    ```
 2. Install dependencies:
